@@ -25,8 +25,10 @@ In this project, let's build an **Emoji Game** by applying the concepts we have 
 <details>
 <summary>Click to view</summary>
 
-- Download dependencies by running `npm install`
-- Start up the app using `npm start`
+- Install dependencies using `npm install`
+- Start the Vite development server using `npm run dev` (or `npm start`)
+- Create a production build using `npm run build`
+- Run the tests using `npm test`
 </details>
 
 ### Completion Instructions
